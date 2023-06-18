@@ -1,7 +1,8 @@
 # Tetris_Game
 Tetris Game using JavaScript, HTML and CSS
 
-![Alt text](Assests/Capture.PNG)
+![Capture](https://github.com/Souvik2376/Tetris-Game/assets/100219950/f27a940c-61be-4b48-81bf-bb0d6fd705aa)
+
 
 Play the Game in browser via ⏭️
 Copy the Following Link and Open in your Browser.
@@ -23,7 +24,11 @@ https://github.com/Souvik2376/Tetris-Game
  ```
   1. Clone the repository ©️
         Open Terminal on a New Empty Folder.
-        copy the following command on the terminal and Enter ->  https://github.com/Souvik2376/Tetris-Game.git
+        copy the following command on the terminal and Enter ->
+
+
+        git init
+        git clone https://github.com/Souvik2376/Tetris-Game.git
 
 
   2. Open The Created Folder via VsCode 🆚
