@@ -8,7 +8,7 @@ Play the Game in browser via ⏭️
 Copy the Following Link and Open in your Browser.
 
 ```
-https://github.com/Souvik2376/Tetris-Game
+https://souvik2376.github.io/Tetris-Game/
 ```
 
     HOW TO PLAY ⏭️
