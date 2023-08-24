@@ -3,6 +3,10 @@ Tetris Game using JavaScript, HTML and CSS
 
 ![Capture](https://github.com/Souvik2376/Tetris-Game/assets/100219950/f27a940c-61be-4b48-81bf-bb0d6fd705aa)
 
+# Try Yourself
+
+https://souvik2376.github.io/Tetris-Game/
+
 
 Play the Game in browser via ⏭️
 Copy the Following Link and Open in your Browser.
@@ -37,6 +41,4 @@ https://souvik2376.github.io/Tetris-Game/
 
   4. Up Arrow key (ROTATE) functionality uses the concept of Matrix Rotation.
 ```
-# Try Yourself
 
-https://souvik2376.github.io/Tetris-Game/
