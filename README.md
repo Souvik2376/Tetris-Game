@@ -37,3 +37,6 @@ https://souvik2376.github.io/Tetris-Game/
 
   4. Up Arrow key (ROTATE) functionality uses the concept of Matrix Rotation.
 ```
+# Try Yourself
+
+https://souvik2376.github.io/Tetris-Game/
